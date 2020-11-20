@@ -1,2 +1,3 @@
 conda create --prefix .\5001_Group_Project\5001_project_env -f environment.yml
- 
+
+activate 5001_project_env
